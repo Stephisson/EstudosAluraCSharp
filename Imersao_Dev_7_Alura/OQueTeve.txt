@@ -1,0 +1,29 @@
+Conversor de moedas.
+- Atribuição de valores
+- Multiplicação
+
+Mentalista
+- Prompt
+- Estrutura de verificação (IF)
+- Comentários.
+- Operador lógico
+- Laço de repetição (while)
+
+AluraFlix
+- Lista
+- Estrutura de c (For)
+
+AluraFlix2
+- pegar um input e adicionar na lista 
+- Manipulação HTML
+
+Tabela de Classificação
+- Criação de objeto.
+- Template String
+
+Conteúdo extra.
+- ChatGPT (openAI)
+- Bard (IA do Google)
+- Canva (versão online do fotoshop, gerador de imagem IA gratuito)
+- MidJourney Bot - Criar prompt de imagens (mesmo do canva mas ficou pago)
+- GitHub Copilot - IA para pair programming (extensão do VS Code) (trial)
