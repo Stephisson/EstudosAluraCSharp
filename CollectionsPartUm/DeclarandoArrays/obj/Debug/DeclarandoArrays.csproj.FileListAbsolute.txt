@@ -1,0 +1,7 @@
+C:\Users\stephisson\Estudos\CollectionsPartUm\DeclarandoArrays\bin\Debug\DeclarandoArrays.exe.config
+C:\Users\stephisson\Estudos\CollectionsPartUm\DeclarandoArrays\bin\Debug\DeclarandoArrays.exe
+C:\Users\stephisson\Estudos\CollectionsPartUm\DeclarandoArrays\bin\Debug\DeclarandoArrays.pdb
+C:\Users\stephisson\Estudos\CollectionsPartUm\DeclarandoArrays\obj\Debug\DeclarandoArrays.csproj.AssemblyReference.cache
+C:\Users\stephisson\Estudos\CollectionsPartUm\DeclarandoArrays\obj\Debug\DeclarandoArrays.csproj.CoreCompileInputs.cache
+C:\Users\stephisson\Estudos\CollectionsPartUm\DeclarandoArrays\obj\Debug\DeclarandoArrays.exe
+C:\Users\stephisson\Estudos\CollectionsPartUm\DeclarandoArrays\obj\Debug\DeclarandoArrays.pdb

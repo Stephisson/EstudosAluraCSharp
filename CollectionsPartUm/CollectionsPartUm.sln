@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeclarandoArrays", "DeclarandoArrays\DeclarandoArrays.csproj", "{6F79908A-AE8C-4BF6-A81C-7888DDBBD441}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperacoesComArrays", "OperacoesComArrays\OperacoesComArrays.csproj", "{0DA57CD3-3192-4A61-87D9-10CB99771332}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F79908A-AE8C-4BF6-A81C-7888DDBBD441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F79908A-AE8C-4BF6-A81C-7888DDBBD441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F79908A-AE8C-4BF6-A81C-7888DDBBD441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F79908A-AE8C-4BF6-A81C-7888DDBBD441}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DA57CD3-3192-4A61-87D9-10CB99771332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DA57CD3-3192-4A61-87D9-10CB99771332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DA57CD3-3192-4A61-87D9-10CB99771332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DA57CD3-3192-4A61-87D9-10CB99771332}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44DCC1AB-674B-44F6-94C3-FB4D5BEB2E3C}
+	EndGlobalSection
+EndGlobal

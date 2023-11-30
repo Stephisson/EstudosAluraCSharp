@@ -1,0 +1,7 @@
+C:\Users\stephisson\Estudos\CollectionsPartUm\OperacoesComArrays\bin\Debug\OperacoesComArrays.exe.config
+C:\Users\stephisson\Estudos\CollectionsPartUm\OperacoesComArrays\bin\Debug\OperacoesComArrays.exe
+C:\Users\stephisson\Estudos\CollectionsPartUm\OperacoesComArrays\bin\Debug\OperacoesComArrays.pdb
+C:\Users\stephisson\Estudos\CollectionsPartUm\OperacoesComArrays\obj\Debug\OperacoesComArrays.csproj.AssemblyReference.cache
+C:\Users\stephisson\Estudos\CollectionsPartUm\OperacoesComArrays\obj\Debug\OperacoesComArrays.csproj.CoreCompileInputs.cache
+C:\Users\stephisson\Estudos\CollectionsPartUm\OperacoesComArrays\obj\Debug\OperacoesComArrays.exe
+C:\Users\stephisson\Estudos\CollectionsPartUm\OperacoesComArrays\obj\Debug\OperacoesComArrays.pdb
