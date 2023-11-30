@@ -1,0 +1,12 @@
+body{
+    background-color: blue;
+}
+
+.minha_classe {
+    color: red;
+    text-align: center;
+}
+
+#meu_id {
+    color: pink; 
+}
