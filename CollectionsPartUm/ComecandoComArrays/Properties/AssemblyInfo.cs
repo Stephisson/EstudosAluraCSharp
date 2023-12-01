@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("DeclarandoArrays")]
+[assembly: AssemblyTitle("ComecandoComArrays")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("DeclarandoArrays")]
+[assembly: AssemblyProduct("ComecandoComArrays")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("6f79908a-ae8c-4bf6-a81c-7888ddbbd441")]
+[assembly: Guid("96d088c6-6e84-4548-9b39-bdce954831e8")]
 
 // Version information for an assembly consists of the following four values:
 //
